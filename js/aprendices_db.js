@@ -32,23 +32,6 @@ const APRENDICES_DATA = [
     },
     "fraseFavorita": "La práctica constante y la disciplina convierten el conocimiento en maestría.",
     "estado": "Guiando la sesión de aprendizaje"
-<<<<<<< HEAD
-<<<<<<< HEAD
-  },
-  {
-    "id": "william-stevan-torres-zapata",
-    "nombreCompleto": "william Stevan Torres Zapata",
-    "ficha": "3294152",
-    "programa": "Análisis y Desarrollo de Software",
-    "rol": "Aprendiz / Desarrollador Junior",
-    "biografia": "Aprendiz SENA apasionado por el desarrollo web, las bases de datos (SQL y NoSQL) y el aprendizaje de nuevas tecnologías de programación.",
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-    
-=======
->>>>>>> 7c6977b20adb8e65a74ac1103845b2d0adc51a3c
   },
   {
     "id": "Valentinapardo",
@@ -194,18 +177,12 @@ const APRENDICES_DATA = [
     "programa": "Análisis y Desarrollo de Software",
     "rol": "Aprendiz / Desarrollador Junior",
     "biografia": "Aprendiz SENA apasionado por el desarrollo web y el aprendizaje de nuevas tecnologías de programación.",
->>>>>>> 5f336d2f813678df1babcd6c5dce2bca758be782
     "habilidades": [
       "Git",
       "GitHub",
       "HTML5",
       "CSS3",
-<<<<<<< HEAD
-      "SQL",
-      "NoSQL y JavaScript."
-=======
       "JavaScript"
->>>>>>> 5f336d2f813678df1babcd6c5dce2bca758be782
     ],
     "intereses": [
       "Desarrollo Web",
@@ -213,14 +190,6 @@ const APRENDICES_DATA = [
     ],
     "avatar": "assets/avatares/avatar_carlos.svg",
     "redes": {
-<<<<<<< HEAD
-      "github": "https://github.com/senawilliamt-blip",
-      "linkedin": "https://linkedin.com/in/senawilliamt-blip",
-      "portafolio": "https://senawilliamt-blip.github.io/mi-perfil-sena"
-    },
-    "fraseFavorita": "No solo escribo código, hago que el equipo avance.",
-    "estado": "Listo para colaborar"
-=======
       "github": "https://github.com/angeldavidq26",
       "linkedin": "https://linkedin.com/in/angeldavidq26",
       "portafolio": "https://angeldavidq26.github.io/mi-perfil-sena"
@@ -229,36 +198,6 @@ const APRENDICES_DATA = [
     "estado": "Listo para colaborar"
   },
   {
-<<<<<<< HEAD
-  "id": "yoiner-esteban-romero-cardenas",
-  "nombreCompleto": "Yoiner Esteban Romero Cardenas",
-  "ficha": "3294152",
-  "programa": "Análisis y Desarrollo de Software",
-  "rol": "Aprendiz / Desarrollador Junior",
-  "biografia": "Aprendiz SENA, desarrollo web y el aprendizaje de nuevas tecnologías de programación, proximo desarrollador fullstack.",
-  "habilidades": [
-    "Git",
-    "GitHub",
-    "HTML5",
-    "CSS3",
-    "JavaScript"
-  ],
-  "intereses": [
-    "Desarrollo Web",
-    "Programación"
-  ],
-  "avatar": "assets/avatares/avatar_carlos.svg",
-  "redes": {
-    "github": "https://github.com/YoiDevops",
-    "linkedin": "https://linkedin.com/in/YoiDevops",
-    "portafolio": "https://YoiDevops.github.io/mi-perfil-sena"
-  },
-  "fraseFavorita": "Yo solía ser un desarrollador como tú, pero entonces recibí un virus en el ordenador.",
-  "estado": "Listo para colaborar"
-}
-=======
->>>>>>> 5f336d2f813678df1babcd6c5dce2bca758be782
-=======
     "id": "yoiner-esteban-romero-cardenas",
     "nombreCompleto": "Yoiner Esteban Romero Cardenas",
     "ficha": "3294152",
@@ -284,8 +223,36 @@ const APRENDICES_DATA = [
     },
     "fraseFavorita": "Yo solía ser un desarrollador como tú, pero entonces recibí un virus en el ordenador.",
     "estado": "Listo para colaborar"
->>>>>>> 7c6977b20adb8e65a74ac1103845b2d0adc51a3c
-  }
+  },
+  {
+  "id": "william-stevan-torres-zapata",
+  "nombreCompleto": "william-stevan-torres-zapata",
+  "ficha": "3294152",
+  "programa": "Análisis y Desarrollo de Software",
+  "rol": "Aprendiz / Desarrollador Junior",
+  "biografia": "Aprendiz SENA apasionado por el desarrollo web, las bases de datos (SQL y NoSQL) y el aprendizaje de nuevas tecnologías de programación.",
+  "habilidades": [
+    "Git",
+    "GitHub",
+    "HTML5",
+    "CSS3",
+    "SQL",
+    "NoSQL y JavaScript."
+  ],
+  "intereses": [
+    "Desarrollo Web",
+    "Programación"
+  ],
+  "avatar": "assets/avatares/avatar_carlos.svg",
+  "redes": {
+    "github": "https://github.com/senawilliamt-blip",
+    "linkedin": "https://linkedin.com/in/senawilliamt-blip",
+    "portafolio": "https://senawilliamt-blip.github.io/mi-perfil-sena"
+  },
+  "fraseFavorita": "No solo escribo código, hago que el equipo avance.",
+  "estado": "Listo para colaborar"
+}
+
 ];
 
 // Si se ejecuta en entorno Node/módulos
