@@ -32,7 +32,35 @@ const APRENDICES_DATA = [
     },
     "fraseFavorita": "La práctica constante y la disciplina convierten el conocimiento en maestría.",
     "estado": "Guiando la sesión de aprendizaje"
-  }
+    
+  },
+
+  {
+  "id": "andres-martinez",
+  "nombreCompleto": "Andres Martinez",
+  "ficha": "3294152",
+  "programa": "Análisis y Desarrollo de Software",
+  "rol": "Aprendiz / Desarrollador Junior",
+  "biografia": "Aprendiz SENA interesado en aprender cosas nuevas y trabajar en equipo",
+  "habilidades": [
+    "Git",
+    "GitHub",
+    "HTML5",
+    "CSS3"
+  ],
+  "intereses": [
+    "Desarrollo Web",
+    "Programación"
+  ],
+  "avatar": "assets/avatares/avatar_carlos.svg",
+  "redes": {
+    "github": "https://github.com/andresdevapps",
+    "linkedin": "https://linkedin.com/in/andresdevapps",
+    "portafolio": "https://andresdevapps.github.io/mi-perfil-sena"
+  },
+  "fraseFavorita": "Mejor intentar y fallar que no intentar.",
+  "estado": "Listo para colaborar"
+}
  ];
 
 // Si se ejecuta en entorno Node/módulos
