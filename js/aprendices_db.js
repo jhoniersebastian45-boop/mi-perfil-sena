@@ -309,6 +309,62 @@ const APRENDICES_DATA = [
   "estado": "Listo para colaborar"
 },
 {
+  "id": "laura-camila-bustos-cuevas",
+  "nombreCompleto": "Laura Camila Bustos Cuevas",
+  "ficha": "3294152",
+  "programa": "Análisis y Desarrollo de Software",
+  "rol": "Aprendiz / Desarrollador Junior",
+  "biografia": "Aprendiz SENA apasionado por el desarrollo web y el aprendizaje de nuevas tecnologías de programación.",
+  "habilidades": [
+    "Git",
+    "GitHub",
+    "HTML5",
+    "CSS3",
+    "JavaScript"
+  ],
+  "intereses": [
+    "Desarrollo Web",
+    "Programación"
+  ],
+  "avatar": "assets/avatares/avatar_laura.svg",
+  "redes": {
+    "github": "https://github.com/kamilciber903",
+    "linkedin": "https://linkedin.com/in/kamilciber903",
+    "portafolio": "https://kamilciber903.github.io/mi-perfil-sena"
+  },
+  "fraseFavorita": "Un momento de dolor para una eternidad de gloria",
+  "estado": "Listo para colaborar"
+},
+{
+  "id": "julian-herrera",
+  "nombreCompleto": "Julián Herrera",
+  "ficha": "3294152",
+  "programa": "Análisis y Desarrollo de Software",
+  "rol": "Aprendiz / Desarrollador Junior",
+  "biografia": "Aprendiz SENA apasionado por el desarrollo web y el aprendizaje de nuevas tecnologías de programación.",
+  "habilidades": [
+    "Git",
+    "GitHub",
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "SQL",
+    "NoSQL"
+  ],
+  "intereses": [
+    "Desarrollo Web",
+    "Programación"
+  ],
+  "avatar": "assets/avatares/avatar_instructor.svg",
+  "redes": {
+    "github": "https://github.com/juli1218",
+    "linkedin": "https://linkedin.com/in/juli1218",
+    "portafolio": "https://juli1218.github.io/mi-perfil-sena"
+  },
+  "fraseFavorita": "La práctica constante hace al maestro del código.",
+  "estado": "Listo para colaborar"
+},
+{
   "id": "jhonier-arias",
   "nombreCompleto": "Jhonier Arias",
   "ficha": "3294152",
@@ -337,7 +393,6 @@ const APRENDICES_DATA = [
   "fraseFavorita": "Todo esfuerzo tiene su recompensa.",
   "estado": "Listo para colaborar"
 }
-
 
 ];
 
