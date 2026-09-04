@@ -32,6 +32,34 @@ const APRENDICES_DATA = [
     },
     "fraseFavorita": "La práctica constante y la disciplina convierten el conocimiento en maestría.",
     "estado": "Guiando la sesión de aprendizaje"
+  },
+  {
+    "id": "william-stevan-torres-zapata",
+    "nombreCompleto": "william Stevan Torres Zapata",
+    "ficha": "3294152",
+    "programa": "Análisis y Desarrollo de Software",
+    "rol": "Aprendiz / Desarrollador Junior",
+    "biografia": "Aprendiz SENA apasionado por el desarrollo web, las bases de datos (SQL y NoSQL) y el aprendizaje de nuevas tecnologías de programación.",
+    "habilidades": [
+      "Git",
+      "GitHub",
+      "HTML5",
+      "CSS3",
+      "SQL",
+      "NoSQL y JavaScript."
+    ],
+    "intereses": [
+      "Desarrollo Web",
+      "Programación"
+    ],
+    "avatar": "assets/avatares/avatar_carlos.svg",
+    "redes": {
+      "github": "https://github.com/senawilliamt-blip",
+      "linkedin": "https://linkedin.com/in/senawilliamt-blip",
+      "portafolio": "https://senawilliamt-blip.github.io/mi-perfil-sena"
+    },
+    "fraseFavorita": "No solo escribo código, hago que el equipo avance.",
+    "estado": "Listo para colaborar"
   }
  ];
 
