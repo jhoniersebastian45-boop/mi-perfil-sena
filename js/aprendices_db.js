@@ -32,6 +32,18 @@ const APRENDICES_DATA = [
     },
     "fraseFavorita": "La práctica constante y la disciplina convierten el conocimiento en maestría.",
     "estado": "Guiando la sesión de aprendizaje"
+<<<<<<< HEAD
+    
+  },
+
+  {
+  "id": "andres-martinez",
+  "nombreCompleto": "Andres Martinez",
+  "ficha": "3294152",
+  "programa": "Análisis y Desarrollo de Software",
+  "rol": "Aprendiz / Desarrollador Junior",
+  "biografia": "Aprendiz SENA interesado en aprender cosas nuevas y trabajar en equipo",
+=======
   },
 {
   "id": "cristian-david-lemus-ovalle",
@@ -39,12 +51,26 @@ const APRENDICES_DATA = [
   "ficha": "3294152",
   "programa": "Análisis y Desarrollo de Software",
   "rol": "Aprendiz / Desarrollador Junior",
+<<<<<<< HEAD
   "biografia": "Aprendiz SENA apasionado por el desarrollo web y el aprendizaje de nuevas tecnologías de programación.",
+=======
+  "biografia": "Aprendiz SENA apasionado por el desarrollo web y el aprendizaje de nuevas tecnologías de programación en constante aprendizaje.",
+>>>>>>> 81883fdcf9cddb0a758df21a91ce751edf75193b
+>>>>>>> 15ed4fabceff8672970d01bd393817188c5a4d20
   "habilidades": [
     "Git",
     "GitHub",
     "HTML5",
+<<<<<<< HEAD
     "CSS3"
+=======
+<<<<<<< HEAD
+    "CSS3"
+=======
+    "CSS3",
+    "JavaScript"
+>>>>>>> 81883fdcf9cddb0a758df21a91ce751edf75193b
+>>>>>>> 15ed4fabceff8672970d01bd393817188c5a4d20
   ],
   "intereses": [
     "Desarrollo Web",
@@ -52,13 +78,59 @@ const APRENDICES_DATA = [
   ],
   "avatar": "assets/avatares/avatar_carlos.svg",
   "redes": {
+<<<<<<< HEAD
     "github": "https://github.com/Anfixsinax",
     "linkedin": "https://linkedin.com/in/Anfixsinax",
     "portafolio": "https://Anfixsinax.github.io/mi-perfil-sena"
+=======
+<<<<<<< HEAD
+    "github": "https://github.com/andresdevapps",
+    "linkedin": "https://linkedin.com/in/andresdevapps",
+    "portafolio": "https://andresdevapps.github.io/mi-perfil-sena"
+  },
+  "fraseFavorita": "Mejor intentar y fallar que no intentar.",
+  "estado": "Listo para colaborar"
+}
+=======
+    "github": "https://github.com/kerlonvelasquez525-star",
+    "linkedin": "https://www.linkedin.com/in/kerlon-velasquez-72180b429/",
+    "portafolio": "https://github.com/kerlonvelasquez525-star/crear_componentes_frontend"
+>>>>>>> 15ed4fabceff8672970d01bd393817188c5a4d20
   },
   "fraseFavorita": "No eres un dios... ¡pero aun así me deleitaré con tu esencia!",
   "estado": "Listo para colaborar"
+<<<<<<< HEAD
 }
+=======
+},
+{    "id": "angel-quintana",
+    "nombreCompleto": "Angel Quintana",
+    "ficha": "3294152",
+    "programa": "Análisis y Desarrollo de Software",
+    "rol": "Aprendiz / Desarrollador Junior",
+    "biografia": "Aprendiz SENA apasionado por el desarrollo web y el aprendizaje de nuevas tecnologías de programación.",
+    "habilidades": [
+      "Git",
+      "GitHub",
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
+    "intereses": [
+      "Desarrollo Web",
+      "Programación"
+    ],
+    "avatar": "assets/avatares/avatar_carlos.svg",
+    "redes": {
+      "github": "https://github.com/angeldavidq26",
+      "linkedin": "https://linkedin.com/in/angeldavidq26",
+      "portafolio": "https://angeldavidq26.github.io/mi-perfil-sena"
+    },
+    "fraseFavorita": "La práctica constante hace al maestro del código y mateo es un peo",
+    "estado": "Listo para colaborar"
+  }
+>>>>>>> 81883fdcf9cddb0a758df21a91ce751edf75193b
+>>>>>>> 15ed4fabceff8672970d01bd393817188c5a4d20
  ];
 
 // Si se ejecuta en entorno Node/módulos
