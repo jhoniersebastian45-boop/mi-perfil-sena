@@ -45,14 +45,18 @@ const APRENDICES_DATA = [
   "biografia": "Aprendiz SENA interesado en aprender cosas nuevas y trabajar en equipo",
 =======
   },
-  {
-  "id": "kerlon-velasquez",
-  "nombreCompleto": "Kerlon Velasquez",
+{
+  "id": "cristian-david-lemus-ovalle",
+  "nombreCompleto": "Cristian David Lemus Ovalle",
   "ficha": "3294152",
   "programa": "Análisis y Desarrollo de Software",
   "rol": "Aprendiz / Desarrollador Junior",
+<<<<<<< HEAD
+  "biografia": "Aprendiz SENA apasionado por el desarrollo web y el aprendizaje de nuevas tecnologías de programación.",
+=======
   "biografia": "Aprendiz SENA apasionado por el desarrollo web y el aprendizaje de nuevas tecnologías de programación en constante aprendizaje.",
 >>>>>>> 81883fdcf9cddb0a758df21a91ce751edf75193b
+>>>>>>> 15ed4fabceff8672970d01bd393817188c5a4d20
   "habilidades": [
     "Git",
     "GitHub",
@@ -60,9 +64,13 @@ const APRENDICES_DATA = [
 <<<<<<< HEAD
     "CSS3"
 =======
+<<<<<<< HEAD
+    "CSS3"
+=======
     "CSS3",
     "JavaScript"
 >>>>>>> 81883fdcf9cddb0a758df21a91ce751edf75193b
+>>>>>>> 15ed4fabceff8672970d01bd393817188c5a4d20
   ],
   "intereses": [
     "Desarrollo Web",
@@ -70,6 +78,11 @@ const APRENDICES_DATA = [
   ],
   "avatar": "assets/avatares/avatar_carlos.svg",
   "redes": {
+<<<<<<< HEAD
+    "github": "https://github.com/Anfixsinax",
+    "linkedin": "https://linkedin.com/in/Anfixsinax",
+    "portafolio": "https://Anfixsinax.github.io/mi-perfil-sena"
+=======
 <<<<<<< HEAD
     "github": "https://github.com/andresdevapps",
     "linkedin": "https://linkedin.com/in/andresdevapps",
@@ -82,9 +95,13 @@ const APRENDICES_DATA = [
     "github": "https://github.com/kerlonvelasquez525-star",
     "linkedin": "https://www.linkedin.com/in/kerlon-velasquez-72180b429/",
     "portafolio": "https://github.com/kerlonvelasquez525-star/crear_componentes_frontend"
+>>>>>>> 15ed4fabceff8672970d01bd393817188c5a4d20
   },
-  "fraseFavorita": "La práctica constante hace al maestro del código.",
+  "fraseFavorita": "No eres un dios... ¡pero aun así me deleitaré con tu esencia!",
   "estado": "Listo para colaborar"
+<<<<<<< HEAD
+}
+=======
 },
 {    "id": "angel-quintana",
     "nombreCompleto": "Angel Quintana",
@@ -145,8 +162,6 @@ const APRENDICES_DATA = [
 >>>>>>> 81883fdcf9cddb0a758df21a91ce751edf75193b
 >>>>>>> 15ed4fabceff8672970d01bd393817188c5a4d20
  ];
-
- 
 
 // Si se ejecuta en entorno Node/módulos
 if (typeof module !== 'undefined' && module.exports) {
