@@ -224,8 +224,118 @@ const APRENDICES_DATA = [
     "fraseFavorita": "Yo solía ser un desarrollador como tú, pero entonces recibí un virus en el ordenador.",
     "estado": "Listo para colaborar"
   },
-
   {
+  "id": "william-stevan-torres-zapata",
+  "nombreCompleto": "william-stevan-torres-zapata",
+  "ficha": "3294152",
+  "programa": "Análisis y Desarrollo de Software",
+  "rol": "Aprendiz / Desarrollador Junior",
+  "biografia": "Aprendiz SENA apasionado por el desarrollo web, las bases de datos (SQL y NoSQL) y el aprendizaje de nuevas tecnologías de programación.",
+  "habilidades": [
+    "Git",
+    "GitHub",
+    "HTML5",
+    "CSS3",
+    "SQL",
+    "NoSQL y JavaScript."
+  ],
+  "intereses": [
+    "Desarrollo Web",
+    "Programación"
+  ],
+  "avatar": "assets/avatares/avatar_carlos.svg",
+  "redes": {
+    "github": "https://github.com/senawilliamt-blip",
+    "linkedin": "https://linkedin.com/in/senawilliamt-blip",
+    "portafolio": "https://senawilliamt-blip.github.io/mi-perfil-sena"
+  },
+  "fraseFavorita": "No solo escribo código, hago que el equipo avance.",
+  "estado": "Listo para colaborar"
+},
+
+{
+  "id": "mateo-paredes",
+  "nombreCompleto": "Mateo Paredes",
+  "ficha": "3294152",
+  "programa": "Análisis y Desarrollo de Software",
+  "rol": "Aprendiz / Desarrollador Junior",
+  "biografia": "Aprendiz SENA apasionado por el desarrollo web y el aprendizaje de nuevas tecnologías de programación.",
+  "habilidades": [
+    "Git",
+    "GitHub",
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "SQL Y noSQL"
+  ],
+  "intereses": [
+    "Desarrollo Web",
+    "Programación"
+  ],
+  "avatar": "assets/avatares/avatar_laura.svg",
+  "redes": {
+    "github": "https://github.com/mateop26",
+    "linkedin": "https://linkedin.com/in/mateop26",
+    "portafolio": "https://mateop26.github.io/mi-perfil-sena"
+  },
+  "fraseFavorita": "reset, restart, refocus.",
+  "estado": "Listo para colaborar"
+},
+{
+  "id": "juan-camilo-villanueva-montoya",
+  "nombreCompleto": "Juan Camilo Villanueva Montoya",
+  "ficha": "3294152",
+  "programa": "Análisis y Desarrollo de Software",
+  "rol": "Aprendiz / Desarrollador Junior",
+  "biografia": "Aprendiz SENA apasionado por el desarrollo web y el aprendizaje de nuevas tecnologías de programación.",
+  "habilidades": [
+    "Git",
+    "GitHub",
+    "HTML5",
+    "CSS3",
+    "JavaScript"
+  ],
+  "intereses": [
+    "Desarrollo Web",
+    "Programación"
+  ],
+  "avatar": "assets/avatares/avatar_default.svg",
+  "redes": {
+    "github": "https://github.com/juancamilovillanueva23-sys",
+    "linkedin": "https://linkedin.com/in/juancamilovillanueva23-sys",
+    "portafolio": "https://juancamilovillanueva23-sys.github.io/mi-perfil-sena"
+  },
+  "fraseFavorita": "Hazlo simple, mantenlo limpio.",
+  "estado": "Listo para colaborar"
+},
+{
+  "id": "laura-camila-bustos-cuevas",
+  "nombreCompleto": "Laura Camila Bustos Cuevas",
+  "ficha": "3294152",
+  "programa": "Análisis y Desarrollo de Software",
+  "rol": "Aprendiz / Desarrollador Junior",
+  "biografia": "Aprendiz SENA apasionado por el desarrollo web y el aprendizaje de nuevas tecnologías de programación.",
+  "habilidades": [
+    "Git",
+    "GitHub",
+    "HTML5",
+    "CSS3",
+    "JavaScript"
+  ],
+  "intereses": [
+    "Desarrollo Web",
+    "Programación"
+  ],
+  "avatar": "assets/avatares/avatar_laura.svg",
+  "redes": {
+    "github": "https://github.com/kamilciber903",
+    "linkedin": "https://linkedin.com/in/kamilciber903",
+    "portafolio": "https://kamilciber903.github.io/mi-perfil-sena"
+  },
+  "fraseFavorita": "Un momento de dolor para una eternidad de gloria",
+  "estado": "Listo para colaborar"
+},
+{
   "id": "julian-herrera",
   "nombreCompleto": "Julián Herrera",
   "ficha": "3294152",
@@ -254,6 +364,7 @@ const APRENDICES_DATA = [
   "fraseFavorita": "La práctica constante hace al maestro del código.",
   "estado": "Listo para colaborar"
 }
+
 ];
 
 // Si se ejecuta en entorno Node/módulos
