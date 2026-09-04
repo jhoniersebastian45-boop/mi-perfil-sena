@@ -32,7 +32,33 @@ const APRENDICES_DATA = [
     },
     "fraseFavorita": "La práctica constante y la disciplina convierten el conocimiento en maestría.",
     "estado": "Guiando la sesión de aprendizaje"
-  }
+  },
+{
+  "id": "cristian-david-lemus-ovalle",
+  "nombreCompleto": "Cristian David Lemus Ovalle",
+  "ficha": "3294152",
+  "programa": "Análisis y Desarrollo de Software",
+  "rol": "Aprendiz / Desarrollador Junior",
+  "biografia": "Aprendiz SENA apasionado por el desarrollo web y el aprendizaje de nuevas tecnologías de programación.",
+  "habilidades": [
+    "Git",
+    "GitHub",
+    "HTML5",
+    "CSS3"
+  ],
+  "intereses": [
+    "Desarrollo Web",
+    "Programación"
+  ],
+  "avatar": "assets/avatares/avatar_carlos.svg",
+  "redes": {
+    "github": "https://github.com/Anfixsinax",
+    "linkedin": "https://linkedin.com/in/Anfixsinax",
+    "portafolio": "https://Anfixsinax.github.io/mi-perfil-sena"
+  },
+  "fraseFavorita": "No eres un dios... ¡pero aun así me deleitaré con tu esencia!",
+  "estado": "Listo para colaborar"
+}
  ];
 
 // Si se ejecuta en entorno Node/módulos
