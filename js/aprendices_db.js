@@ -336,34 +336,31 @@ const APRENDICES_DATA = [
   "estado": "Listo para colaborar"
 },
 {
-  "$schema": "Plantilla para crear tu perfil de aprendiz SENA en el taller de Git/GitHub",
-  "id": "tu-nombre-apellido",
-  "nombreCompleto": "Tu Nombre y Apellidos",
+  "id": "sharon-daliana-campos-tique",
+  "nombreCompleto": "Sharon Daliana Campos Tique",
   "ficha": "3294152",
   "programa": "Análisis y Desarrollo de Software",
   "rol": "Aprendiz / Desarrollador Junior",
-  "biografia": "Escribe aquí una breve descripción sobre ti, tus metas profesionales y lo que más te apasiona del desarrollo de software o tu área formativa.",
+  "biografia": "Aprendiz SENA apasionado por el desarrollo web y el aprendizaje de nuevas tecnologías de programación.",
   "habilidades": [
     "Git",
     "GitHub",
     "HTML5",
     "CSS3",
-    "JavaScript",
-    "Trabajo en Equipo"
+    "JavaScript"
   ],
   "intereses": [
-    "Desarrollo Frontend",
-    "Bases de Datos",
-    "Inteligencia Artificial"
+    "Desarrollo Web",
+    "Programación"
   ],
   "avatar": "assets/avatares/avatar_default.svg",
   "redes": {
-    "github": "https://github.com/tu-usuario",
-    "linkedin": "https://linkedin.com/in/tu-usuario",
-    "portafolio": "https://tu-usuario.github.io/mi-perfil-sena"
+    "github": "https://github.com/mi-usuario-github",
+    "linkedin": "https://linkedin.com/in/mi-usuario-github",
+    "portafolio": "https://mi-usuario-github.github.io/mi-perfil-sena"
   },
-  "fraseFavorita": "El código limpio siempre parece que fue escrito por alguien a quien le importaba.",
-  "estado": "Disponible para proyectos colaborativos"
+  "fraseFavorita": "La práctica constante hace al maestro del código.",
+  "estado": "Listo para colaborar"
 }
 
 
