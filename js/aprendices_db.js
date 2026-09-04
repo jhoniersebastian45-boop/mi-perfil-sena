@@ -336,6 +336,64 @@ const APRENDICES_DATA = [
   "estado": "Listo para colaborar"
 },
 {
+  "id": "julian-herrera",
+  "nombreCompleto": "Julián Herrera",
+  "ficha": "3294152",
+  "programa": "Análisis y Desarrollo de Software",
+  "rol": "Aprendiz / Desarrollador Junior",
+  "biografia": "Aprendiz SENA apasionado por el desarrollo web y el aprendizaje de nuevas tecnologías de programación.",
+  "habilidades": [
+    "Git",
+    "GitHub",
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "SQL",
+    "NoSQL"
+  ],
+  "intereses": [
+    "Desarrollo Web",
+    "Programación"
+  ],
+  "avatar": "assets/avatares/avatar_instructor.svg",
+  "redes": {
+    "github": "https://github.com/juli1218",
+    "linkedin": "https://linkedin.com/in/juli1218",
+    "portafolio": "https://juli1218.github.io/mi-perfil-sena"
+  },
+  "fraseFavorita": "La práctica constante hace al maestro del código.",
+  "estado": "Listo para colaborar"
+},
+{
+  "id": "jhonier-arias",
+  "nombreCompleto": "Jhonier Arias",
+  "ficha": "3294152",
+  "programa": "Análisis y Desarrollo de Software",
+  "rol": "Aprendiz / Desarrollador Junior",
+  "biografia": "Soy estudiante de Análisis y Desarrollo de Software, interesado en la tecnología y en la creación de soluciones digitales. Me caracterizo por ser responsable, creativo y con disposición para aprender y fortalecer mis conocimientos en programación y desarrollo de software.",
+  "habilidades": [
+    "Git",
+    "GitHub",
+    "HTML5",
+    "CSS",
+    "JavaScript",
+    "sql",
+    "nosql"
+  ],
+  "intereses": [
+    "Desarrollo Web",
+    "Programación"
+  ],
+  "avatar": "assets/avatares/avatar_carlos.svg",
+  "redes": {
+    "github": "https://github.com/jhoniersebastian45-boop",
+    "linkedin": "https://linkedin.com/in/jhoniersebastian45-boop",
+    "portafolio": "https://jhoniersebastian45-boop.github.io/mi-perfil-sena"
+  },
+  "fraseFavorita": "Todo esfuerzo tiene su recompensa.",
+  "estado": "Listo para colaborar"
+},
+{
   "id": "sharon-daliana-campos-tique",
   "nombreCompleto": "Sharon Daliana Campos Tique",
   "ficha": "3294152",
@@ -362,7 +420,6 @@ const APRENDICES_DATA = [
   "fraseFavorita": "La práctica constante hace al maestro del código.",
   "estado": "Listo para colaborar"
 }
-
 
 ];
 

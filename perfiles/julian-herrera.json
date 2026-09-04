@@ -1,6 +1,6 @@
 {
-  "id": "sharon-daliana-campos-tique",
-  "nombreCompleto": "Sharon Daliana Campos Tique",
+  "id": "julian-herrera",
+  "nombreCompleto": "Julián Herrera",
   "ficha": "3294152",
   "programa": "Análisis y Desarrollo de Software",
   "rol": "Aprendiz / Desarrollador Junior",
@@ -10,17 +10,19 @@
     "GitHub",
     "HTML5",
     "CSS3",
-    "JavaScript"
+    "JavaScript",
+    "SQL",
+    "NoSQL"
   ],
   "intereses": [
     "Desarrollo Web",
     "Programación"
   ],
-  "avatar": "assets/avatares/avatar_default.svg",
+  "avatar": "assets/avatares/avatar_instructor.svg",
   "redes": {
-    "github": "https://github.com/mi-usuario-github",
-    "linkedin": "https://linkedin.com/in/mi-usuario-github",
-    "portafolio": "https://mi-usuario-github.github.io/mi-perfil-sena"
+    "github": "https://github.com/juli1218",
+    "linkedin": "https://linkedin.com/in/juli1218",
+    "portafolio": "https://juli1218.github.io/mi-perfil-sena"
   },
   "fraseFavorita": "La práctica constante hace al maestro del código.",
   "estado": "Listo para colaborar"
