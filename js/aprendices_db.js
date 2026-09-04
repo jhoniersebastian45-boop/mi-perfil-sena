@@ -32,6 +32,38 @@ const APRENDICES_DATA = [
     },
     "fraseFavorita": "La práctica constante y la disciplina convierten el conocimiento en maestría.",
     "estado": "Guiando la sesión de aprendizaje"
+  },
+  
+  
+  
+  {"id": "Valentinapardo",
+  "nombreCompleto": "Valentina Chaves",
+  "ficha": "3294152",
+  "programa": "Análisis y Desarrollo de Software",
+  "rol": "Aprendiz / Desarrollador Junior",
+  "biografia": "Estudiante en Analisis y Desarrollo de Software en el sena,apasionada por la tecnologia y la progrmacion mas orientada al backend con conocimientos basicos en JavaScript,python,php,laravel .",
+  "habilidades": [
+    "postgresql",
+    "GitHub",
+    "HTML5",
+    "CSS3",
+    "JavaScript",
+    "Trabajo en Equipo"
+  ],
+  "intereses": [
+    "Desarrollo backend",
+    "Bases de Datos",
+    "Inteligencia Artificial"
+  ],
+  "avatar": "assets/avatares/avatar_laura.svg",
+  "redes": {
+    "github": "https://github.com/Valentinna-p28",
+    "linkedin": "https://linkedin.com/in/tu-usuario",
+    "portafolio": "https://tu-usuario.github.io/mi-perfil-sena"
+  },
+  "fraseFavorita": "El código limpio siempre parece que fue escrito por alguien a quien le importaba.",
+  "estado": "Disponible para proyectos colaborativos"
+
   }
  ];
 
