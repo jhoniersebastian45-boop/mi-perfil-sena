@@ -32,6 +32,7 @@ const APRENDICES_DATA = [
     },
     "fraseFavorita": "La práctica constante y la disciplina convierten el conocimiento en maestría.",
     "estado": "Guiando la sesión de aprendizaje"
+<<<<<<< HEAD
 
     
   },
@@ -42,6 +43,16 @@ const APRENDICES_DATA = [
   "programa": "Análisis y Desarrollo de Software",
   "rol": "Aprendiz / Desarrollador Junior",
   "biografia": "Aprendiz SENA apasionado por el desarrollo web y el aprendizaje de nuevas tecnologías de programación. futuro programador senior",
+=======
+  },
+  {
+  "id": "kerlon-velasquez",
+  "nombreCompleto": "Kerlon Velasquez",
+  "ficha": "3294152",
+  "programa": "Análisis y Desarrollo de Software",
+  "rol": "Aprendiz / Desarrollador Junior",
+  "biografia": "Aprendiz SENA apasionado por el desarrollo web y el aprendizaje de nuevas tecnologías de programación en constante aprendizaje.",
+>>>>>>> 81883fdcf9cddb0a758df21a91ce751edf75193b
   "habilidades": [
     "Git",
     "GitHub",
@@ -53,6 +64,7 @@ const APRENDICES_DATA = [
     "Desarrollo Web",
     "Programación"
   ],
+<<<<<<< HEAD
   "avatar": "assets/avatares/avatar_default.svg",
   "redes": {
     "github": "https://github.com/yojhandev",
@@ -61,10 +73,49 @@ const APRENDICES_DATA = [
   },
   "fraseFavorita": "Sin mente que pensar.  Sin voluntad que quebrar.  Sin voz que clame por el sufrimiento.  Nacido de Dios y del Vacío.  Tú sellarás la luz cegadora que devora sus sueños.  Tú eres el Recipiente.  Tú eres el Hollow Knight.",
   "estado": "Listo para colaborar"
-}
+},
 
   
+=======
+  "avatar": "assets/avatares/avatar_carlos.svg",
+  "redes": {
+    "github": "https://github.com/kerlonvelasquez525-star",
+    "linkedin": "https://www.linkedin.com/in/kerlon-velasquez-72180b429/",
+    "portafolio": "https://github.com/kerlonvelasquez525-star/crear_componentes_frontend"
+  },
+  "fraseFavorita": "La práctica constante hace al maestro del código.",
+  "estado": "Listo para colaborar"
+},
+{    "id": "angel-quintana",
+    "nombreCompleto": "Angel Quintana",
+    "ficha": "3294152",
+    "programa": "Análisis y Desarrollo de Software",
+    "rol": "Aprendiz / Desarrollador Junior",
+    "biografia": "Aprendiz SENA apasionado por el desarrollo web y el aprendizaje de nuevas tecnologías de programación.",
+    "habilidades": [
+      "Git",
+      "GitHub",
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
+    "intereses": [
+      "Desarrollo Web",
+      "Programación"
+    ],
+    "avatar": "assets/avatares/avatar_carlos.svg",
+    "redes": {
+      "github": "https://github.com/angeldavidq26",
+      "linkedin": "https://linkedin.com/in/angeldavidq26",
+      "portafolio": "https://angeldavidq26.github.io/mi-perfil-sena"
+    },
+    "fraseFavorita": "La práctica constante hace al maestro del código y mateo es un peo",
+    "estado": "Listo para colaborar"
+  }
+>>>>>>> 81883fdcf9cddb0a758df21a91ce751edf75193b
  ];
+
+ 
 
 // Si se ejecuta en entorno Node/módulos
 if (typeof module !== 'undefined' && module.exports) {
