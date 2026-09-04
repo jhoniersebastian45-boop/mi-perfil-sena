@@ -225,6 +225,35 @@ const APRENDICES_DATA = [
     "estado": "Listo para colaborar"
   },
   {
+  "id": "william-stevan-torres-zapata",
+  "nombreCompleto": "william-stevan-torres-zapata",
+  "ficha": "3294152",
+  "programa": "Análisis y Desarrollo de Software",
+  "rol": "Aprendiz / Desarrollador Junior",
+  "biografia": "Aprendiz SENA apasionado por el desarrollo web, las bases de datos (SQL y NoSQL) y el aprendizaje de nuevas tecnologías de programación.",
+  "habilidades": [
+    "Git",
+    "GitHub",
+    "HTML5",
+    "CSS3",
+    "SQL",
+    "NoSQL y JavaScript."
+  ],
+  "intereses": [
+    "Desarrollo Web",
+    "Programación"
+  ],
+  "avatar": "assets/avatares/avatar_carlos.svg",
+  "redes": {
+    "github": "https://github.com/senawilliamt-blip",
+    "linkedin": "https://linkedin.com/in/senawilliamt-blip",
+    "portafolio": "https://senawilliamt-blip.github.io/mi-perfil-sena"
+  },
+  "fraseFavorita": "No solo escribo código, hago que el equipo avance.",
+  "estado": "Listo para colaborar"
+},
+
+{
   "id": "mateo-paredes",
   "nombreCompleto": "Mateo Paredes",
   "ficha": "3294152",
@@ -252,6 +281,7 @@ const APRENDICES_DATA = [
   "fraseFavorita": "reset, restart, refocus.",
   "estado": "Listo para colaborar"
 }
+
 ];
 
 // Si se ejecuta en entorno Node/módulos
