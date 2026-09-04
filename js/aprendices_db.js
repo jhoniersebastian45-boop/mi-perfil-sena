@@ -59,8 +59,36 @@ const APRENDICES_DATA = [
   },
   "fraseFavorita": "La práctica constante hace al maestro del código.",
   "estado": "Listo para colaborar"
-}
+},
+{    "id": "angel-quintana",
+    "nombreCompleto": "Angel Quintana",
+    "ficha": "3294152",
+    "programa": "Análisis y Desarrollo de Software",
+    "rol": "Aprendiz / Desarrollador Junior",
+    "biografia": "Aprendiz SENA apasionado por el desarrollo web y el aprendizaje de nuevas tecnologías de programación.",
+    "habilidades": [
+      "Git",
+      "GitHub",
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
+    "intereses": [
+      "Desarrollo Web",
+      "Programación"
+    ],
+    "avatar": "assets/avatares/avatar_carlos.svg",
+    "redes": {
+      "github": "https://github.com/angeldavidq26",
+      "linkedin": "https://linkedin.com/in/angeldavidq26",
+      "portafolio": "https://angeldavidq26.github.io/mi-perfil-sena"
+    },
+    "fraseFavorita": "La práctica constante hace al maestro del código y mateo es un peo",
+    "estado": "Listo para colaborar"
+  }
  ];
+
+ 
 
 // Si se ejecuta en entorno Node/módulos
 if (typeof module !== 'undefined' && module.exports) {
