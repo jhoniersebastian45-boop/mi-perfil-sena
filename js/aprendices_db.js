@@ -5,33 +5,31 @@
  */
 const APRENDICES_DATA = [
   {
-    "id": "instructor-melqui-romero",
-    "nombreCompleto": "Melqui Romero",
-    "ficha": "Instructor SENA",
-    "programa": "Línea TIC / Software",
-    "rol": "Instructor & Líder Técnico",
-    "biografia": "Instructor técnico apasionado por las buenas prácticas de ingeniería de software, arquitectura limpia, integración continua y el trabajo colaborativo en equipo.",
+    "id": "Aprendiz-sharon-campos",
+    "nombreCompleto": "Sharon Daliana Campos Tique",
+    "ficha": "3294152",
+    "programa": "Análisis y Desarrollo de Software",
+    "rol": "Aprendiz",
+    "biografia": "Aprendiz SENA apasionado por el desarrollo web y el aprendizaje de nuevas tecnologías de programación.",
     "habilidades": [
-      "Git & GitHub",
-      "Arquitectura de Software",
-      "JavaScript / Node.js",
-      "Python",
-      "Metodologías Ágiles",
-      "Bases de Datos SQL/NoSQL"
+      "Git",
+      "GitHub",
+      "HTML5",
+      "CSS3",
+      "JavaScript"
     ],
     "intereses": [
-      "DevOps",
-      "Inteligencia Artificial",
-      "Formación Integral"
+      "Desarrollo Web",
+      "Programación",
+      "Base datos"
     ],
-    "avatar": "assets/avatares/avatar_instructor.svg",
+    "avatar": "assets/avatares/avatar_sharon.svg",
     "redes": {
-      "github": "https://github.com/vermqen",
-      "linkedin": "https://linkedin.com",
+      "github": "https://github.com/Daliana217-github",
       "portafolio": "https://sena.edu.co"
     },
     "fraseFavorita": "La práctica constante y la disciplina convierten el conocimiento en maestría.",
-    "estado": "Guiando la sesión de aprendizaje"
+    "estado": "Listo para colaborar"
   }
  ];
 
