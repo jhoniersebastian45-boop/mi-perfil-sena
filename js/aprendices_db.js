@@ -32,10 +32,7 @@ const APRENDICES_DATA = [
     },
     "fraseFavorita": "La práctica constante y la disciplina convierten el conocimiento en maestría.",
     "estado": "Guiando la sesión de aprendizaje"
-  },
-  
-  
-  
+  },  
   {"id": "Valentinapardo",
   "nombreCompleto": "Valentina Chaves",
   "ficha": "3294152",
@@ -63,9 +60,64 @@ const APRENDICES_DATA = [
   },
   "fraseFavorita": "El código limpio siempre parece que fue escrito por alguien a quien le importaba.",
   "estado": "Disponible para proyectos colaborativos"
-
+},
+{
+  "id": "kerlon-velasquez",
+  "nombreCompleto": "Kerlon Velasquez",
+  "ficha": "3294152",
+  "programa": "Análisis y Desarrollo de Software",
+  "rol": "Aprendiz / Desarrollador Junior",
+  "biografia": "Aprendiz SENA apasionado por el desarrollo web y el aprendizaje de nuevas tecnologías de programación en constante aprendizaje.",
+  "habilidades": [
+    "Git",
+    "GitHub",
+    "HTML5",
+    "CSS3",
+    "JavaScript"
+  ],
+  "intereses": [
+    "Desarrollo Web",
+    "Programación"
+  ],
+  "avatar": "assets/avatares/avatar_carlos.svg",
+  "redes": {
+    "github": "https://github.com/kerlonvelasquez525-star",
+    "linkedin": "https://www.linkedin.com/in/kerlon-velasquez-72180b429/",
+    "portafolio": "https://github.com/kerlonvelasquez525-star/crear_componentes_frontend"
+  },
+  "fraseFavorita": "La práctica constante hace al maestro del código.",
+  "estado": "Listo para colaborar"
+},
+{
+    "id": "angel-quintana",
+    "nombreCompleto": "Angel Quintana",
+    "ficha": "3294152",
+    "programa": "Análisis y Desarrollo de Software",
+    "rol": "Aprendiz / Desarrollador Junior",
+    "biografia": "Aprendiz SENA apasionado por el desarrollo web y el aprendizaje de nuevas tecnologías de programación.",
+    "habilidades": [
+      "Git",
+      "GitHub",
+      "HTML5",
+      "CSS3",
+      "JavaScript"
+    ],
+    "intereses": [
+      "Desarrollo Web",
+      "Programación"
+    ],
+    "avatar": "assets/avatares/avatar_carlos.svg",
+    "redes": {
+      "github": "https://github.com/angeldavidq26",
+      "linkedin": "https://linkedin.com/in/angeldavidq26",
+      "portafolio": "https://angeldavidq26.github.io/mi-perfil-sena"
+    },
+    "fraseFavorita": "La práctica constante hace al maestro del código y mateo es un peo",
+    "estado": "Listo para colaborar"
   }
  ];
+
+ 
 
 // Si se ejecuta en entorno Node/módulos
 if (typeof module !== 'undefined' && module.exports) {
