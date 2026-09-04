@@ -307,7 +307,37 @@ const APRENDICES_DATA = [
   },
   "fraseFavorita": "Hazlo simple, mantenlo limpio.",
   "estado": "Listo para colaborar"
+},
+{
+  "id": "jhonier-arias",
+  "nombreCompleto": "Jhonier Arias",
+  "ficha": "3294152",
+  "programa": "Análisis y Desarrollo de Software",
+  "rol": "Aprendiz / Desarrollador Junior",
+  "biografia": "Soy estudiante de Análisis y Desarrollo de Software, interesado en la tecnología y en la creación de soluciones digitales. Me caracterizo por ser responsable, creativo y con disposición para aprender y fortalecer mis conocimientos en programación y desarrollo de software.",
+  "habilidades": [
+    "Git",
+    "GitHub",
+    "HTML5",
+    "CSS",
+    "JavaScript",
+    "sql",
+    "nosql"
+  ],
+  "intereses": [
+    "Desarrollo Web",
+    "Programación"
+  ],
+  "avatar": "assets/avatares/avatar_carlos.svg",
+  "redes": {
+    "github": "https://github.com/jhoniersebastian45-boop",
+    "linkedin": "https://linkedin.com/in/jhoniersebastian45-boop",
+    "portafolio": "https://jhoniersebastian45-boop.github.io/mi-perfil-sena"
+  },
+  "fraseFavorita": "Todo esfuerzo tiene su recompensa.",
+  "estado": "Listo para colaborar"
 }
+
 
 ];
 
